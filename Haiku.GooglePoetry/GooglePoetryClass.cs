@@ -1,9 +1,5 @@
 ﻿using BepInEx;
-using BepInEx.Configuration;
-using System;
 using System.Reflection;
-using System.Runtime.InteropServices;
-using System.Text;
 using UnityEngine;
 using System.Collections.Generic;
 using System.IO;
