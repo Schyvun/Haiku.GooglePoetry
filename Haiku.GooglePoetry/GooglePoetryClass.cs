@@ -10,8 +10,7 @@ using System.IO;
 
 namespace Haiku.GooglePoetry
 {
-    [BepInPlugin("internalName", "Displayed Name", "1.0.0.0")]
-    [BepInDependency("haiku.mapi", "1.0.0.1")]
+    [BepInPlugin("haiku.googlePoetry", "Google Poetry", "1.0.0.1")]
     public sealed class GooglePoetryClass : BaseUnityPlugin
     {
         Dictionary<string, string> googleTranslatedLanguage = new();
