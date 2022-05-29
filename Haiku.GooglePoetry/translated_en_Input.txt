@@ -1,0 +1,875 @@
+ID;;Play
+_PLAY_GAME;;QORQ
+_SETTINGS;;enter
+_CREDITS;;Save space
+_QUIT;;KU I T
+_SAVEFILE_1;;S A V E F I L E 1
+_SAVEFILE_2;;sa jafile
+_SAVEFILE_3;;SAVEDOSIERO3
+_CLEAR;;Nagi
+_ARE_YOU_SURE;;I believe
+_BACK;;Kita
+_LISTENING;;novice ...
+_FULLSCREEN;;whole page
+_VSYNC;;Play with V.
+_FPS_LIMIT;;fps isel
+_LANGUAGE_SETTINGS;;Keel
+_MASTER_VOL;;io
+_MUSIC_VOL;;Song Friends
+_FX_VOL;;Great FX
+_CONTROLLER_RUMBLE;;Error handling
+_CONTROL_SETTINGS;;Management method
+_CONTROL_DISCLAIMER_1;;(Connect your browser
+_CONTROL_DISCLAIMER_2;;Keyboard message)
+_C_LEFT;;Christian asked
+_C_RIGHT;;ma
+_C_UP;;each
+_C_DOWN;;Good luck
+_C_ATTACK;;miles
+_C_JUMP;;hockey
+_C_DASH;;skin
+_C_ROLL;;O
+_C_BOMB;;Line
+_C_ZIPLINE;;ritsleting
+_C_HEAL;;fear of the place
+_C_QUICK_MAP;;burglary
+_C_INVENTORY;;Impact
+_C_CAMERA_UP;;The camera is locked.
+_C_CAMERA_DOWN;;the camera is broken
+_C_PAUSE_EXIT;;alysna
+_C_RESET;;return to default state
+_MAIN_MENU_SUBMIT;;Futney {Collection Working Interface
+_MAIN_MENU_CANCEL;;Delete {function: UICance}
+_SAVE_WARNING;;The game takes place in a number of ways. Do not turn off the car when you see this sign.
+_YES;;in the light
+_NO;;In case of non-allocation.
+_NOT_ENOUGH;;shame
+_PURCHASE_QUESTION;;Agazia?
+_PURCHASE_ACTION;;ክ Send event event
+_CONFIRM_ACTION;;Promise {Function: Submit
+_CANCEL_ACTION;;Step Delete Kagbuo
+_EXIT_ACTION;;There was a problem deleting the UIC process
+_CHANGE_ACTION;;Oman {opus: Isismmitted
+_EQUIP_ACTION;;Engine {Function: Shipping
+_REPAIR_CLOCK;;Do you change the clock?
+_REPAIR_DOOR;;The engine shuts down. Do you want to send your waste?
+_REPAIR;;mix
+_USE_RUSTY_KEY;;Want to use the black key?
+_NEED_RUSTY_KEY;;Like an old lock.
+_USE_ELECTRIC_KEY;;Do you use electronic security?
+_NEED_ELECTRIC_KEY;;As it turned out, the lock requires a special key.
+_DEPOSIT;;Want to collect different items?
+_MAP;;I'm a coffee shop
+_ZOOM_ACTION;;ඉදිරිපත් Submit UI Function
+_HEAL_STATION;;remand center
+_BANK_STATION;;Clothes in the middle
+_TRAIN_STOP;;military station
+_VENDOR;;il-bini:
+_POWERCELL;;With full force
+_DISRUPTOR;;half
+_HELP_MARKER;;Kortaskanni
+_MARKER;;enjoy
+_HEALTH_PINS;;Symptoms
+_BANK_PINS;;High condition mark
+_TRAIN_PINS;;station mark
+_VENDOR_PINS;;class code
+_POWERCELL_PINS;;Eternal stone
+_ITEMS;;Project
+_RADIO_TITLE;;frequency operator
+_RADIO_DESCRIPTION;;Detects electromagnetic waves in the atmosphere and converts them into map data.
+_LIGHT_BULB_TITLE;;Burning
+_LIGHT_BULB_DESCRIPTION;;torn. Very bright in the dark.
+_FIRE_RES_TITLE;;Heat treatment
+_FIRE_RES_DESCRIPTION;;Designed to withstand melting at high temperatures.
+_FIRE_RES_CONTROLS;;Note: Keep connecting.
+_WATER_RES_TITLE;;Hermetic treatment
+_WATER_RES_DESCRIPTION;;Creates a stable position that prevents water from entering the body.
+_ROLL_TITLE;;physical changes
+_ROLL_DESCRIPTION;;Replace robot housing.
+_ROLL_CONTROLS;;Click "Action" to spin the ball. Wheel. "
+_BOMB_TITLE;;brave
+_BOMB_DESCRIPTION;;Electronics can be produced in small factories.
+_BOMB_CONTROLS;;{Action: Use the bomb.
+_WALLJUMP_TITLE;;electronics
+_WALLJUMP_DESCRIPTION;;Previously, cars were made for recycling.
+_WALLJUMP_CONTROLS;;BT {Function: Go to the entry whistle
+_GRAPPLE_TITLE;;Type Tat Ib Hatsker
+_GRAPPLE_DESCRIPTION;;Add a zip code to turn off the remote control.
+_GRAPPLE_CONTROLS;;For more information, click the "Action - Focus Line" button.
+_DOUBLE_JUMP_TITLE;;Sedative
+_DOUBLE_JUMP_DESCRIPTION;;There are some small bars that users should read.
+_DOUBLE_JUMP_CONTROLS;;Keep the car in the air.
+_BLINK_TITLE;;The board is broken
+_BLINK_DESCRIPTION;;Sharp wire between two slots.
+_BLINK_CONTROLS;;Teleport action: press the arrow
+_HEALING_WRENCH_TITLE;;Adjustment button
+_HEALING_WRENCH_DESCRIPTION;;It is widely used in wound healing and healing.
+_HEALING_WRENCH_CONTROLS;;Kanir Sana village
+_SPARE_PARTS_TITLE;;To go
+_SPARE_PARTS_DESCRIPTION;;Spare parts are required to operate the machine. They are an important resource that can be turned into a product.
+_STORED_SPARE_PARTS_TITLE;;secure application
+_STORED_SPARE_PARTS_DESCRIPTION;;Goldcrest will have a spare part. You can use the keys to add additional sections manually.
+_COOLANT_TITLE;;Get up and shut up
+_COOLANT_DESCRIPTION;;Effectively converts low pressure water to low temperature. This reduces the risk of overheating.
+_COOLANT_CONTROLS;;Reduce heat costs
+_FRAGMENTS_TITLE;;about capsules
+_FRAGMENTS_DESCRIPTION;;There is a lot of oil in the hull, which allows the device to work properly.
+_FRAGMENTS_CONTROLS;;Add 3 to improve your health.
+_FRAGMENT_COLLECTED;;I see a section.
+_RUSTY_KEY_TITLE;;Take it
+_RUSTY_KEY_DESCRIPTION;;Easy key to unlock old keys.
+_ELECTRIC_KEY;;It's quiet
+_ELECTRIC_KEY_DESCRIPTION;;Power button and icon above.
+_WHISTLE_TITLE;;Hiwi koura Silvado
+_WHISTLE_DESCRIPTION;;Use the nearby park to name it the Golden Cross. They protect your special equipment.
+_WHISTLE_CONTROLS;;Shopping {For: When cycling or shopping
+_KILL_SWITCH_TITLE;;Instead of fighting with a sword
+_KILL_SWITCH_DESCRIPTION;;Thin parts are used to run robots. Some parts are missing.
+_KILL_SWITCH_DESCRIPTION_2;;Afeitarse anchors the robot control scheme.
+_KILL_SWITCH_CONTROLS;;Click Action: Attack Attack
+_CASSETTE;;ice
+_CASSETTE_DESC;;The first stage of human technology was to fight against the polluted practices of nature.
+_MONEY_MAGNET;;Portable magnet
+_MONEY_MAGNET_DESC;;A microscopic device that controls the number of parts produced after death.
+;;
+_MAP_UPDATED;;The map has been updated
+_EMPTY;;L.S.
+_MAINFRAME;;basis
+_VAULT;;Slinger
+_MAINFRAME_VAULT;;M.A.I.N.F.R.A.M.E.V.A.U.L.T.
+_ABANDONED;;ADD
+_SUNKEN;;SUNK E N
+_WASTES;;VASTI
+_ABANDONED_WASTES;;The Athenian Alba River
+_SUNKEN_WASTES;;History and Sunny NYST
+_INCINERATOR;;Cuba burned
+_BURNER;;Brenneris
+_INCINERATOR_BURNER;;USS Spain
+_CENTRAL;;CNTRL
+_CORE;;These are:
+_CENTRAL_CORE;;reason
+_FORGOTTEN;;hala
+_RUINS;;Ruins
+_FORGOTTEN_RUINS;;P.ORG.O.T.E.N.R.U.N.S.
+_WATER;;The wind
+_DUCTS;;D. UTS
+_WATER_DUCTS;;buy water
+_LAST;;In the end
+_BUNKER;;Roze Rs.
+_LAST_BUNKER;;ΘΛΣ ΤΒΜΚΡ
+_FACTORY;;Cause
+_FACILITY;;recently.
+_FACTORY_FACILITY;;IFCT FKR
+_STEAM;;West
+_TOWN;;3x rain
+_STEAM_TOWN;;The steam is hot
+_PINIONS;;Level
+_EXPANSE;;AXP or ISA
+_PINIONS_EXPANSE;;P I N I O N E H P A N S E
+_BLAZING;;BLA AJING
+_FURNACE;;Very full
+_BLAZING_FURNACE;;Won for him
+_RUINED;;R.U.E.N.E.
+_SURFACE;;water level.
+_RUINED_SURFACE;;RUNDSU RFCA
+_FIRST;;.Water
+_TREE;;Thailand
+_FIRST_TREE;;At the start
+_SNAIL;;The Buddha is standing
+_BURROW;;B.U.R.V.
+_SNAIL_BURROW;;SNA IboTBROV
+_SECRET;;Analyst
+_LAB;;Gallery building
+_SECRET_LAB;;Mind R S e Arci HL Sin b
+_LOST;;Missing
+_ARCHIVES;;Arc IV ES
+_LOST_ARCHIVES;;I-LOSDRCIVIS
+_DERELICT_HOLE;;Trulycola
+_SCUBAS_REFUGE;;Hell M - KRAWLESRFUGE
+_THE_CATACOMBS;;Tikataku MBS
+_FORMER_CORE;;suffix
+_QUATERN_PLACE;;SUATEERNSPOXECT
+_MONITOR_ROOM;;M. OE ETOR O OM
+_TYRE_VILLAGE;;Mastach
+_THE_KITCHEN;;All of them
+_CATACOMBS_COMPUTER_1;;SLKE uterine comb
+_CATACOMBS_COMPUTER_2;;Remains of a former deceased
+_CHIPS;;These or these
+_CHIPS_TUTORIAL;;Make and prepare fries for the workshop.
+_AUTO_ROLL;;Pass
+_AUTO_ROLL_DESC;;The user's body automatically adjusts upon landing.
+_ROLL_SPEED;;Gyroscope acceleration
+_ROLL_SPEED_DESC;;This allows users to make quick changes.
+_FAST_COOLDOWN;;Cold
+_FAST_COOLDOWN_DESC;;Carefully remove heat from the consumer system.
+_MORE_MONEY;;Shelter
+_MORE_MONEY_DESC;;This allows the user to remove hostile storage devices.
+_MAGNETISM;;kumi
+_MAGNETISM_DESC;;Metal breakage attracts consumers.
+_MAP_HELPER;;Inseme
+_MAP_HELPER_DESC;;The page will automatically close if the customer needs an ambulance.
+_SHOCK_WAVE;;injury condition
+_SHOCK_WAVE_DESC;;The cannon emits a shockwave that prevents enemies from tearing their eyes out.
+_SHOCK_PROJECTILE;;paper money
+_SHOCK_PROJECTILE_DESC;;The bomb exploded in front of the operator, causing waves.
+_QUICK_ATTACK;;difficult to accept
+_QUICK_ATTACK_DESC;;This reduces the weight of the blade and makes it sharper.
+_CRIT_CHANCE;;Without Borders
+_CRIT_CHANCE_DESC;;Locking the sword gives you a 10% chance to destroy enemies.
+_BULB_PROJECTILE;;light base
+_BULB_PROJECTILE_DESC;;The user provides electronic communication between the boxes.
+_ATTACK_RANGE;;The length of the sword
+_ATTACK_RANGE_DESC;;increase the length of the sword to defeat enemies from a distance.
+_FAST_HEAL;;it is good
+_FAST_HEAL_DESC;;Cut out the rest and quickly adjust the client’s body.
+_LONGER_INVINCIBILITY;;a wolf
+_LONGER_INVINCIBILITY_DESC;;Encourage Windows users to add content.
+_REDUCE_MONEY_DROPPED;;On it he
+_REDUCE_MONEY_DROPPED_DESC;;It greatly reduces the number of different components that are added to the connection.
+_BLINK_DISTANCE;;Good orientation.
+_BLINK_DISTANCE_DESC;;Increase in aircraft damage and increase the lives of domestic workers.
+_ROLL_SAW;;progressive
+_ROLL_SAW_DESC;;You can avoid danger and defeat enemies by attaching a sword to the client's body.
+_INCREASED_HEALTH_1;;Scotorigi
+_INCREASED_HEALTH_1_DESC;;As a result, my client's condition deteriorated, causing further damage.
+_INCREASED_HEALTH_2;;Protective capsule
+_INCREASED_HEALTH_2_DESC;;It improves the health of the users and makes them more vulnerable.
+_AUTO_BOMB;;Again
+_AUTO_BOMB_DESC;;The user crashed and exploded.
+_EXTRA_FIRE_RES;;I travel hot
+_EXTRA_FIRE_RES_DESC;;Protect consumers from heat.
+_ELECTRIC_TRAIL;;free radicals of electrons
+_ELECTRIC_TRAIL_DESC;;Lightning strikes and destroys the enemy.
+_NO_KNOCKBACK;;support you
+_NO_KNOCKBACK_DESC;;Split the user's legs and cut the enemy's sword without killing a single plate.
+_INCREASED_BOMB_DAMAGE;;improve control.
+_INCREASED_BOMB_DAMAGE_DESC;;This bomb is more dangerous and allows the user to shoot enemies faster.
+_AUTO_HEAL;;The principle of the machine
+_AUTO_HEAL_DESC;;Damaged health kits will be returned, allowing the user to repair them without damage.
+_CHIP_SLOT;;This is clear from
+_CHIP_SLOT_DESC;;The mother has to pick up the chips
+_SONNET;;You
+_SONNET_DESC;;place
+_SONNET_WAITING_TRAIN_1;;Hi everyone, have you seen the train?
+_SONNET_WAITING_TRAIN_2;;Surprisingly, this often does not last long. Maybe why continue?
+_SONNET_WAITING_TRAIN_3;;I have a train. I'm always thinking of selling new products and I'm sitting here.
+_SONNET_WAITING_TRAIN_4;;I will wait. I haven't received much information recently.
+_SONNET_ON_TRAIN_FIRST;;Hello again, the train has been announced! Do you want to buy something?
+_SONNET_ON_TRAIN_RAND_1;;I like reading books on the train. Save books before and after!
+_SONNET_ON_TRAIN_RAND_2;;I was about to finish the book. That's the name I want to read until I'm done.
+_SONNET_ON_TRAIN_RAND_3;;Now I have a new book, good news and a great opportunity! But when will come back to get something more?
+_SONNET_ON_TRAIN_RAND_4;;I'm afraid to read all the books one day. I read a new book!
+_SONNET_SOLD_OUT_1;;Obviously you cleaned up. I have no complaints I am the best customer!
+_SONNET_SOLD_OUT_2;;Now you have the content of your new book.
+_SONNET_SOLD_OUT_3;;the right time. I read in my library, now I read what I like.
+_SONNET_SOLD_OUT_EXH;;How many books can I buy with it?
+_LIMERICK;;good
+_LIMERICK_DESC;;In the water
+_LIMERICK_TIRE_HOUSE_1;;Damn, he doesn't seem to have another car.
+_LIMERICK_TIRE_HOUSE_2;;But still very young. I hope the change doesn't take long.
+_LIMERICK_TIRE_HOUSE_3;;As we investigated, these features appear to be violating your transportation plans.
+_LIMERICK_TIRE_HOUSE_4;;It looks ruined. But I haven't lost the picture yet. On this page ...
+_LIMERICK_TIRE_HOUSE_5_EXH;;Why not me There must be something ...
+_LIMERICK_TIRE_HOUSE_4_ALT;;When he leaves, I live on my radar.
+_LIMERICK_TIRE_HOUSE_5_EXH_ALT;;Great, my radar paper is working again.
+_LIMERICK_PROPER_INTRO_1;;That's why you.
+_LIMERICK_PROPER_INTRO_2;;Not quite. My name is Limerick. Like I said before, I didn't think it would last much longer.
+_LIMERICK_PROPER_INTRO_3;;As a detective, I have good control over most machines.
+_LIMERICK_PROPER_INTRO_4;;Circumstances lead me to this world. I want a good secret, this virus is strong.
+_LIMERICK_PROPER_INTRO_EXH;;We'll see each other again, but can we go a little further? These cars are slow.
+_LIMERICK_ENGINE_AREA_1;;I saw that he was alive.
+_LIMERICK_ENGINE_AREA_2;;Maybe I was wrong about you.
+_LIMERICK_ENGINE_AREA_3;;It is covered in a bag. They are in close contact with each other and create a domino effect.
+_LIMERICK_ENGINE_AREA_4;;It is dangerous for me to ask. But if I continue to work, I will find my way.
+_LIMERICK_ENGINE_AREA_5;;Did you see the big picture of the magazine while you were here? Good but bad
+_LIMERICK_ENGINE_AREA_6;;As you can see, the lock is broken.
+_LIMERICK_ENGINE_AREA_7;;I have this information. These symptoms go well.
+_LIMERICK_ENGINE_AREA_EXH;;No problem. I need to find something broken.
+_LIMERICK_SMALL_HOLE_1;;I really know, I know, because I already know.
+_LIMERICK_SMALL_HOLE_EXH;;I saw the light on the other side.
+_LIMERICK_TRAIN_1;;Yes, he was a strict man, right?
+_LIMERICK_TRAIN_2;;You are skeptical at first, but you are going somehow. I like the back.
+_LIMERICK_TRAIN_3;;If you do not have one, forget about Arcade Arcade.
+_LIMERICK_TRAIN_4;;Even if the system does not. He is full of life.
+_LIMERICK_TRAIN_5;;I found tips to help you with this.
+_LIMERICK_TRAIN_EXH;;Who opened the center? I had to change without thinking.
+_LIMERICK_SEWERS_1;;Yes, BT doesn't work for me either.
+_LIMERICK_SEWERS_2;;The position of the water flowing from the end of the pipe changes.
+_LIMERICK_SEWERS_3;;yes I want you to laugh at some puzzles that don’t fit into the picture.
+_LIMERICK_SEWERS_4;;Why does he break the security seal? What body do you see? Do you have a virus program?
+_LIMERICK_SEWERS_EXH;;I've been here for a long time. Now I am not disappointed.
+_LIMERICK_BUNKER_1;;What kind
+_LIMERICK_BUNKER_2;;It is impossible to imagine what force would destroy so many bunkers.
+_LIMERICK_BUNKER_EXH;;We are on the verge of terrorism.
+_LIMERICK_SURFACE_SHOP_1;;Beware, my son is raining outside!
+_LIMERICK_SURFACE_SHOP_2;;The car does not travel well in the rain. As a result, most of the sites were built underground.
+_LIMERICK_SURFACE_SHOP_3;;Collectors want to stay here. They fall into the mud and come out.
+_LIMERICK_SURFACE_SHOP_4;;It's a lazy beast, but cheap.
+_LIMERICK_SURFACE_SHOP_5;;There are also other parts of the world. The city of Arcadia was not the only one born after the fall of men.
+_LIMERICK_SURFACE_SHOP_6;;How are you here?
+_LIMERICK_SURFACE_SHOP_7_EXH;;I don't know what I saw from afar when I looked back.
+_LIMERICK_SURFACE_SHOP_8_EXH;;Think about it. I bought a drink from this store.
+_ODE_DESC;;tourists
+_ODE_WASTES_EXIT_1;;no! Hello, your name is rusty. I came to the playground to see his splendor, but not the utopia he showed.
+_ODE_WASTES_EXIT_2;;I think I was wrong. There are no major consequences for players.
+_ODE_WASTES_EXIT_3;;Advise them to behave properly and avoid any false introduction. How are you?
+_ODE_HEALTH_STATION_PIN;;Use this little sign. They were part of the process. If you don't have replacement tools, you will need to repair the kit.
+_ODE_WASTES_EXIT_EXH;;But of course I know, because it's already known. Courage begins, not cost. Welcome to your trip
+_ODE_TRAIN_1;;It's interesting, isn't it? This place looks more important than the outside of the house.
+_ODE_TRAIN_2;;If necessary, say no because the train is running!
+_ODE_TRAIN_STATION_PIN;;I put this sign to remind you to jump and jump. I'm sure they will help too.
+_ODE_TRAIN_3;;I need time to understand my relationship. During this time, I learned to shop in a new city.
+_ODE_TRAIN_4;;I think research is the focus of my life. It still hurts.
+_ODE_TRAIN_5;;Hoda, no choice.
+_ODE_TRAIN_EXH;;Stay new friends Life is not in your hands until you find out.
+_ODE_WATERFALL_1;;Hello! I look forward to meeting you again!
+_ODE_WATERFALL_2;;Isn't this the right place? Does anyone know how beautiful the desert is?
+_ODE_WATERFALL_3;;Great beauty of the world, my friend. Unfortunately, most of us live and die without ever realizing it.
+_ODE_VENDOR_PIN_1;;Damn, I almost forgot. I know we'll meet again, so I'll give it to you.
+_ODE_VENDOR_PIN_2;;here. These characters are from other fun traders or robots that you will encounter on your journey.
+_ODE_WATERFALL_EXH;;You need to know where the water is going. What are the goals and techniques? I am going to try.
+_ODE_FORGOTTEN_RUINS_1;;Hahaha! It seems that the forgotten body of Arcadia was found. There are only two entrances and exits, so it took me a while to find a place.
+_ODE_FORGOTTEN_RUINS_2;;Where I see it is different. Made of iron and steel. But ... so sweet.
+_ODE_FORGOTTEN_RUINS_3;;I heard about the lives of our ancestors, but I didn't think they were green and sustainable. Pain in the buttocks.
+_ODE_BANK_STATION_PIN_1;;Well, nice look. On the way I met a man named Panion.
+_ODE_BANK_STATION_PIN_2;;Honestly, it's not too expensive. But maybe you want to?
+_ODE_FORGOTTEN_RUINS_4;;That's the quality of prevention, isn't it? There seems to be no such place. But here.
+_ODE_FORGOTTEN_RUINS_5;;So let's talk. In the middle - a large metal structure. I wonder what the brand is.
+_ODE_FORGOTTEN_RUINS_6;;That is our next goal.
+_ODE_FORGOTTEN_RUINS_EXH;;We will meet again. This is a common reason.
+_ODE_LAST_ENCOUNTER_1;;Hello friends, sorry, this is the last time we will meet. I love traveling in Arcadia and now is the time to do it.
+_ODE_LAST_ENCOUNTER_2;;I'm having fun. We have also seen underground beauty and sales.
+_ODE_LAST_ENCOUNTER_3;;I have to thank you, nice to meet you good friends. Thank
+_ODE_POWER_CELLS_PIN_1;;or. Do you really think this will change? you know me better
+_ODE_POWER_CELLS_PIN_2;;I think some people have told me that education is important.
+_ODE_LAST_ENCOUNTER_EXH_1;;We still do not know the right way. But I have experience
+_ODE_LAST_ENCOUNTER_EXH_2;;Let's see what happens now.
+_ODE_LAST_ENCOUNTER_NOTE_1;;The last journey was in a hurry. I hope this helps. Forgive me for your dear service.
+_ODE_NOTE_DESC;;May
+_QUATERN;;After tea
+_QUATERN_DESC;;Natural anger
+_QUATERN_FIRST_ENCOUNTER_1;;How can you say yes, I'm not wise?
+_QUATERN_FIRST_ENCOUNTER_2;;I agree. I have to make my last comment.
+_QUATERN_FIRST_ENCOUNTER_3;;big explosion! ...
+_QUATERN_FIRST_ENCOUNTER_4;;Nowhere is it more interesting. But when it does, believe me.
+_QUATERN_FIRST_ENCOUNTER_5;;Battery required for connection.
+_QUATERN_FIRST_ENCOUNTER_6;;If you have low blood pressure. I'll give you more money.
+_QUATERN_FIRST_ENCOUNTER_7;;When I encounter an external power source, I connect a small device and work on a wireless connection.
+_QUATERN_FIRST_ENCOUNTER_8;;Because I think less, I think less.
+_QUATERN_STANDARD_EXH;;is it? There is no
+_QUATERN_0_POWERCELLS_1;;Don't have a battery? Surprisingly, you fill that gap.
+_QUATERN_1_POWERCELLS_1;;Yes, we started well, right? Turn it on now!
+_QUATERN_2_POWERCELLS_1;;So why not get started? It consists of two energy levels.
+_QUATERN_4_POWERCELLS_1;;The application is configured. The deceiver left something at the door. Is there an EU?
+_QUATERN_4_POWERCELLS_2;;First! Sometimes I feel like I missed the system!
+_QUATERN_6_POWERCELLS_1;;Always have to knock!
+_QUATERN_7_POWERCELLS_1;;Boys need more energy. My knowledge has paved the way for us today.
+_QUATERN_8_POWERCELLS_1;;I did something for you and left you at the door. This
+_QUATERN_8_POWERCELLS_2;;you know how. He paused. But now it's time to go back to work.
+_QUATERN_10_POWERCELLS_1;;I know fairies. Do not worry about this little thing, I will tell you what you want ...
+_QUATERN_10_POWERCELLS_2;;...... Yes exactly! Which line?
+_QUATERN_10_POWERCELLS_3;;No, I'm not talking to you, lol
+_QUATERN_10_POWERCELLS_4_EXH;;P.
+_QUATERN_12_POWERCELLS_1;;Favorite equation?
+_QUATERN_12_POWERCELLS_2;;it's easy! Currently 44 times.
+_QUATERN_12_POWERCELLS_3;;I feel like twice now. Laziness
+_QUATERN_12_POWERCELLS_EXH;;This is a major responsibility for almost everyone. Even if you have not already paid, do not forget to send your payments along the way.
+_QUATERN_14_POWERCELLS_1;;It's almost over. We can replace this product with new energy sources.
+_QUATERN_14_POWERCELLS_2_EXH;;I do not know if he remembers me yet, but now I'm close to him.
+_QUATERN_15_POWERCELLS_1;;Almost ready! We need a lot of energy and energy to handle this business!
+_QUATERN_15_POWERCELLS_2_EXH;;As my son reminds me... I am very close to him now.
+_QUATERN_END_CUTSCENE_1;;Dear friends, we have succeeded. We did our homework.
+_QUATERN_END_CUTSCENE_2;;I had a good day and I miss you now.
+_QUATERN_END_CUTSCENE_3;;Looking forward to your house after a long time, but I have no idea what the future holds. Where are you going
+_QUATERN_END_CUTSCENE_4;;No more counting time.
+_QUATERN_END_CUTSCENE_5;;Hello, thanks for coming.
+_QUATERN_END_CUTSCENE_6;;Leave a comment to go to the granch.
+_QUATERN_NO_NEW_POWERCELLS;;No good cells? Oh, sorry... you came back to see it.
+_BOH;;B.O.H. 9000
+_BOH_DESC;;salsa because
+_BOH_NOFOOD_1;;Yes, I am tired of knowing that. I am still cooking
+_BOH_NOFOOD_2;;Ask if the wind is strong. I want to burn the dirt in my throat.
+_BOH_NOFOOD_3;;If you can get food out of this trash can, you know what?
+_BOH_FINDS_FOOD_1;;amused! You made a man! You can find good food in this plant.
+_BOH_FINDS_FOOD_2;;I want to take my bike back to the kitchen as soon as possible.
+_BOH_FINDS_FOOD_3_EXH;;How: ...they have bread.
+_BOH_FOOD_1;;I’m talking about it. real food!
+_BOH_FOOD_2;;Guys, I don't have time to talk. I'm here!
+_BOH_RANDOM_1;;Men Do not forget to pay for that potato.
+_BOH_RANDOM_2;;GOOD! I need a driver!
+_BOH_RANDOM_3;;I left five minutes later.
+_BOH_RANDOM_4;;Oh, we love toxic food at the window! let's go
+_BOH_RANDOM_5;;Now that your bread is cold
+_BOH_RANDOM_6;;Click on the story... Can you tell us the story?
+_BOH_RANDOM_7;;Save my bomb, hurry up, I'm dry!
+_BOH_RANDOM_8;;Hundreds ready! Soups and salads!
+_BOH_RANDOM_9;;Bring food!
+_VERSE;;Again:
+_VERSE_REACTOR_1;;Your robot trailer driver. Your actions are unfinished. look, i have to say good.
+_VERSE_REACTOR_2;;Surprisingly, the virus does not affect him. It can be removed from your account.
+_VERSE_REACTOR_3;;We meet in central and local stores.
+_VERSE_VAULT_1;;It is the capital of Arcadia.
+_VERSE_VAULT_2;;It is a utopia of machines and functions. Malicious plans are in their hands.
+_VERSE_VAULT_3;;It looks like Arcadia has lost a point and the residents have already paid for it.
+_VERSE_VAULT_4;;Some places are bad, but the pain seems to be gone. Around the main computer.
+_VERSE_VAULT_5;;Ask experienced little robots for help. They only have the power to break the seal.
+_VERSE_AWAKENING_1;;I know you're back.
+_VERSE_AWAKENING_2;;Plus, you’ll often come back for a while if you don’t see lost places.
+_VERSE_AWAKENING_3;;Sometimes we return in search of answers and information.
+_VERSE_AWAKENING_4;;Please do not look back. You are here to plan your daughter's life. You said
+_VERSE_AWAKENING_5;;I know you have the ability and the desire to do what you have to do.
+_VERSE_FORGOTTEN_RUINS_1;;It all started here. The conflict led to the decline of Arkady.
+_VERSE_FORGOTTEN_RUINS_2;;The first version was created and developed by our ancestors. And he has his shortcomings.
+_VERSE_FORGOTTEN_RUINS_3;;Interesting, isn't it? Feelings of fatigue, anger, and fear are with us.
+_VERSE_FORGOTTEN_RUINS_4;;Suffice it to say that they got what they deserved. However, this does not change what you need now.
+_VERSE_FORGOTTEN_RUINS_5;;Do your best to create balance in the world as you open the door to the depths of the center.
+_VERSE_FORGOTTEN_RUINS_6;;You know, this is a real gift. After all, this was the first thing I did when I woke up.
+_VERSE_FORGOTTEN_RUINS_7;;I have a lot of work, but I am not healthy. Waking up from here is normal.
+_VERSE_FORGOTTEN_RUINS_8;;I do not remember not swearing before my people. What I know in my life is rust.
+_VERSE_FORGOTTEN_RUINS_9;;As you can see, there is something in the viruses.
+_VERSE_FORGOTTEN_RUINS_10_EXH;;Recommended for purchase from other manufacturers.
+_VERSE_FOURTH_CREATOR_1;;You get a false result ... the disease is fast, but no skin.
+_VERSE_FOURTH_CREATOR_2;;There is a deep connection between you. I know no one else.
+_VERSE_FOURTH_CREATOR_3;;Something is still holding me back. The virus has achieved its ultimate purpose. This is an obstacle to achieving this goal. However, they continued to be convicted.
+_VERSE_FOURTH_CREATOR_4;;Why does the disease still exist? There is a difference between that person and the person you want.
+_VERSE_AFTER_VIRUS_BOSS_1;;Haiku wakes up!
+_VERSE_AFTER_VIRUS_BOSS_2;;I was wrong. Infection is the main symptom of this, not the reason.
+_VERSE_AFTER_VIRUS_BOSS_3;;You see me in the closed door under the balcony. We need to get to the heart of the matter.
+_VERSE_SACRIFICE_1;;Now I know that we are not accidental. Both are very similar.
+_VERSE_SACRIFICE_2;;No part of my debt. Use a knife to do this.
+_VERSE_SACRIFICE_3;;My life is central to Arcadia’s health. He died when the virus started. It allows me to do the right thing.
+_VERSE_SACRIFICE_4;;But this is where my journey ends. In this way, we can calm down and face reality.
+_VERSE_SACRIFICE_5;;Arkadia's future rests on his shoulders. March.
+_VERSE_CLOSE_TO_END_1;;They found the ultimate creation. They are waiting for your money.
+_VERSE_CLOSE_TO_END_2;;I can't wait to see if we can.
+_VERSE_CLOSE_TO_END_3;;Good luck to your kids. I believe in your knowledge of the European Union.
+_SECRET_LAB_BIG_1;;Adjust yourself to the compromise plan: Mistakes will not be forgiven. Only failure will lead to progress, improvement, and new approaches.
+_SECRET_LAB_SMALL_1_1;;Make a development plan. In the dream, the boys received second qualification from the post office, but they were well educated.
+SENTIENTS;;
+_ELECTRIC_SENTIENT;;Overall
+_ELECTRIC_SENTIENT_DESC;;The third design
+_FACTORY_SENTIENT;;squirrels
+_FACTORY_SENTIENT_DESC;;The second caste
+_BUNKER_SENTIENT;;Neutrophil
+_BUNKER_SENTIENT_DESC;;The first manufacturer
+_ARCHEOLOGIST;;Weight
+_ARCHEOLOGIST_DESC;;angudilla mcnilick
+_ARCHEOLOGIST_BOSS_0_1;;Yes. I know what I know.
+_ARCHEOLOGIST_BOSS_0_2;;Do you think there is wealth in this world? What design are we going to look at?
+_ARCHEOLOGIST_BOSS_0_3;;Maybe ... I think that's the only way to know.
+_ARCHEOLOGIST_BOSS_0_EXH;;I still have to count. Good work takes a long time. If it is below 1 degree, you can make the whole picture.
+_ARCHEOLOGIST_BOSS_1_1;;Congratulations again. We have had great success since our last meeting. I worked as an old man.
+_ARCHEOLOGIST_BOSS_1_2;;It generally sucks, but I'll remove one. Back?
+_ARCHEOLOGIST_BOSS_1_3;;Great people and I want to explore their personality. For example, did you know they were fighting?
+_ARCHEOLOGIST_BOSS_1_4;;Yes, you know what I mean! Think of the war against cars, not the perfection of civilization.
+_ARCHEOLOGIST_BOSS_1_5;;What do you think can be achieved on the road to peace?
+_ARCHEOLOGIST_BOSS_1_6;;In any case, it is best to dig deeper. You know what he says: grass and grass, but books!
+_ARCHEOLOGIST_BOSS_1_EXH;;You know what I'm talking about - are brushes and stones lighter?
+_ARCHEOLOGIST_BOSS_2_1;;If my tiles are right, the machine will come out of this rock. When I arrived, the white men.
+_ARCHEOLOGIST_BOSS_2_2;;I saw something like a car. Yes one of us
+_ARCHEOLOGIST_BOSS_2_3;;It hurts. The earth is getting hotter, the body is getting hotter. Who can do it?
+_ARCHEOLOGIST_BOSS_2_4;;This is probably the most interesting thing I’ve ever had. Of course, this is the unpleasant thing. But here are the most interesting ones.
+_ARCHEOLOGIST_BOSS_2_5;;But now I can not bear it. I want to eat well!
+_ARCHEOLOGIST_BOSS_2_EXH;;I can not wait, I want to get well.
+_ARCHEOLOGIST_BOSS_3_1;;see this amazing. It's not unusual, is it? we are not successful people. We found lost catacombs.
+_ARCHEOLOGIST_BOSS_3_2;;Despite the limitations, humans love animals and look after them. Although life is short, the dead are buried in memory.
+_ARCHEOLOGIST_BOSS_3_3;;I read graves and they come in all languages. So mix well.
+_ARCHEOLOGIST_BOSS_3_4;;I wonder if they will stay calm. When all hope is lost, they are the last to be restored.
+_ARCHEOLOGIST_BOSS_3_EXH;;I can imagine this place because I can be here for a while.
+_MISCHIEVIOUS;;OK good
+_MISCHIEVIOUS_DESC;;Lina
+_MISCHIEVIOUS_1;;Do you want peace?
+_ECHO;;Dewer
+_ECHO_DESC;;expert
+_ECHO_FIRST_ENCOUNTER_1;;Hello, because I went there
+_ECHO_FIRST_ENCOUNTER_2;;Unknown I think the door is closed. In particular, to eliminate all supernatural things.
+_ECHO_FIRST_ENCOUNTER_3;;Ella, you're here now and I can put on my shoes. I ask, can you buy my chips?
+_ECHO_NORMAL_ENCOUNTER_1;;Welcome kid Do you want to change your brand product?
+_ECHO_ALL_ITEMS_SOLD_1;;I wanted the latest chips but I bought them all.
+_ECHO_ALL_ITEMS_SOLD_2;;Interesting. I think I've found a new club, thank you, I think I can live well!
+_LUNE;;The best
+_LUNE_DESC;;new manufacturer
+_PURCHASE_POEM;;Do you have to go to an hardware store?
+_LUNE_FIRST_ENCOUNTER_1;;Welcome to the shop! How can I help you?
+_LUNE_FIRST_ENCOUNTER_2;;I forgot to work in the store.
+_LUNE_FIRST_ENCOUNTER_3;;Welcome to the poetess Lúna! Tired of this hectic life, I slowly moved on.
+_LUNE_FIRST_ENCOUNTER_4;;Poetry is a work that brings joy, sadness and happiness. He laughs ... cries ... and bites!
+_LUNE_FIRST_ENCOUNTER_5;;Can I write a poem that you want to hear from someone?
+_LUNE_NORMAL_ENCOUNTER_1;;Hmm, you wanna hear my moment?
+_LUNE_NOMORE_ENCOUNTER_1;;toto!
+_LUNE_NOMORE_ENCOUNTER_2;;I have to write more ...
+_POEM_1_1;;The world is growing.
+_POEM_1_2;;The third heart is bitter wine.
+_POEM_1_3;;Silent tears.
+_POEM_2_1;;the new moon is coming
+_POEM_2_2;;The golden leaves are flying like wings
+_POEM_2_3;;When was the last time you took a breath?
+_POEM_3_1;;Imbley HO
+_POEM_3_2;;Located on the ground floor.
+_POEM_3_3;;It's interesting to watch.
+_POEM_4_1;;I dreamed of a light
+_POEM_4_2;;Smoking at the same time
+_POEM_4_3;;Is he an angel?
+_POEM_5_1;;we will do
+_POEM_5_2;;We all listened
+_POEM_5_3;;I never heard their voice again.
+_POEM_6_1;;big world
+_POEM_6_2;;We have a long way to go.
+_POEM_6_3;;You can not be frustrated.
+_POEM_7_1;;Bata Simbi
+_POEM_7_2;;Dreams of rust in the past
+_POEM_7_3;;The clown will leave you in the dark.
+_POEM_8_1;;Why me
+_POEM_8_2;;Play and get a little angry!
+_POEM_8_3;;The hope of salvation.
+_POEM_9_1;;Audin oh 'Young Aodai;
+_POEM_9_2;;Butter is good for everyone
+_POEM_9_3;;This is an electronic dream.
+_POEM_10_1;;People get up and fight.
+_POEM_10_2;;Incorrect
+_POEM_10_3;;This line remains.
+_POEM_11_1;;The virus spreads quickly
+_POEM_11_2;;The whole world is wrong with that.
+_POEM_11_3;;How to survive
+_POEM_12_1;;Where does this pain come from?
+_POEM_12_2;;You can send us your number,
+_POEM_12_3;;Sign up forever.
+_POEM_13_1;;The iron works all day
+_POEM_13_2;;corrosion process robots,
+_POEM_13_3;;Relax for a few minutes.
+_POEM_14_1;;Dark orange
+_POEM_14_2;;Levanos for everyone
+_POEM_14_3;;Run, you won't see war.
+_POEM_15_1;;The world is divided.
+_POEM_15_2;;Every day last year's voices.
+_POEM_15_3;;nine versions have arrived
+_WALL_E;;Who will you be?
+_WALL_E_QUOTE_1;;... Mother ...?
+_VENDING_MACHINE;;Keep updating
+_VENDING_MACHINE_1;;N - Hey, gearbox. I'll buy it for you, but ... I'm afraid to go now.
+_VENDING_MACHINE_2;;Let others not believe you, you will eventually die. This is a natural cycle.
+_VENDING_MACHINE_3;;Damaged cell or damaged vehicle. They are all the same. The resurrection is coming sooner than expected and is falling.
+_VENDING_MACHINE_EXH;;Policy S ... Enabled.
+_CAMERA_NPC;;a little
+_CAMERA_NPC_1;;ந ... என்?
+_CAMERA_NPC_2;;It's free. If you are ready, give this place a try.
+_CAMERA_NPC_3;;My body was infected with a virus. Comments Do not touch the appliance with the projector.
+_CAMERA_NPC_EXH;;How many times do you think the virus spreads throughout your body?
+_CENTER_NPC;;..
+_CENTER_NPC_1;;C- Do you need it? Looks like your main P program is infected with a virus ... one by one tax code.
+_CENTER_NPC_EXH;;Try ... help me.
+_DERELICT_HOLE_LORE_CHIP_1;;We cannot hide in this garbage.
+_WINDUP_MOTHER;;D.D.
+_WINDUP_MOTHER_BEFORE_1;;I will help! The engine started again when the children were playing in the steam room. They will not be destroyed!
+_WINDUP_MOTHER_BEFORE_EXH;;But please, you should come in and get it. Thank you.
+_WINDUP_MOTHER_AFTER_1;;Good morning! Thank you for the safety of my children. I don’t know how to get back to you
+_WINDUP_MOTHER_AFTER_2;;, I'm so angry! I told her not to worry because it was dangerous, but she did not listen!
+_WINDUP_MOTHER_AFTER_3;;Hello, not much, but good.
+_WINDUP_MOTHER_AFTER_EXH;;Hey, I think this is a good example for them.
+_BIRD_WHISTLE_ROBOT;;tools,
+_BIRD_WHISTLE_ROBOT_DESC;;the manager:
+_BIRD_WHISTLE_ROBOT_1;;My name is Penny. I am looking for opportunities to invest in this sector. What's your name
+_BIRD_WHISTLE_ROBOT_2;;... aren't these just words? I love robots who love each other.
+_BIRD_WHISTLE_ROBOT_3;;It's hard for a friend to find something. If not, it can be solved carefully.
+_BIRD_WHISTLE_ROBOT_4;;If your company has funds, we recommend contacting Goldcrest and adding others.
+_BIRD_WHISTLE_ROBOT_5;;Investment. Use it to sing Golden Cross when you're at the train station.
+_BIRD_WHISTLE_ROBOT_6_EXH;;Don't be afraid to lose your son's experience. You get it every time a customer buys.
+_BIRD_WHISTLE_ROBOT_7_EXH;;I'm looking for you.
+_AWKWARD_ROBOT;;Red
+_AWKWARD_FIRST_1;;Information.
+_AWKWARD_FIRST_2;;Don't confuse me
+_AWKWARD_FIRST_3;;Isti
+_AWKWARD_SECOND_1;;with love
+_AWKWARD_SECOND_2;;Outside
+_AWKWARD_SECOND_3;;His _____.
+_AWKWARD_SECOND_EXH;;I'm ready.
+_AWKWARD_THIRD_1;;Although.
+_AWKWARD_THIRD_2;;Why is your name Hiko?
+_AWKWARD_THIRD_3;;But this is a mistake.
+_AWKWARD_THIRD_EXH;;The future is over.
+_AWKWARD_FOURTH_1;;Very Good.
+_AWKWARD_FOURTH_2;;I hope you get it.
+_AWKWARD_FOURTH_EXH;;Welcome back.
+_WIELDER;;Lin GY i
+_WIELDER_DESC;;David's nephew c.
+_WIELDER_CAPSULE_1_1;;Hmmm, you're a beginner
+_WIELDER_CAPSULE_1_2;;I have nothing to hate, the world has collapsed
+_WIELDER_CAPSULE_1_3;;Do you have anything to buy?
+_WIELDER_NOTENOUGH_CAP_1_1;;I need these three aids.
+_WIELDER_CAPSULE_2_1;;Yeah Al that sounds pretty crap to me, Looks like BT aint for me either. BT is no longer seen by me.
+_WIELDER_CAPSULE_2_2;;His name is Randall. I'm a welder and I'm alone in Arkansas right now.
+_WIELDER_CAPSULE_2_3;;There are some soft drinks on the train. Unfortunately, those days are bad memories.
+_WIELDER_CAPSULE_2_4;;Have a cookie you'd like to use?
+_WIELDER_NOTENOUGH_CAP_2_1;;.. I'm trying again, but there are three.
+_WIELDER_CAPSULE_3_1;;It's a cramped space, so you'll need two people to maintain the tent.
+_WIELDER_CAPSULE_3_2;;How can other oil capsules help?
+_WIELDER_CAPSULE_3_3;;Do you have a burn?
+_WIELDER_NOTENOUGH_CAP_3_1;;we. You need three of them.
+_WIELDER_CAPSULE_4_1;;Tell me, can you guide someone else?
+_WIELDER_CAPSULE_4_2;;At first I was angry. Then time passed and repentance came.
+_WIELDER_CAPSULE_4_3;;I wonder if we are fishing too far.
+_WIELDER_CAPSULE_4_4;;b. A lot of new things.
+_WIELDER_NOTENOUGH_CAP_4_1;;You need to know if you want three.
+_WIELDER_COMPLETED_QUEST_1;;I'm going to the next stop. He will live long and repent.
+_WIELDER_COMPLETED_QUEST_2;;My service ends here. But we will get enough information soon.
+_WIELDER_COMPLETED_QUEST_3;;I'll see you later
+_WIELDER_SUCCESS;;we will go there. For example, New.
+_WIELDER_WITH_BROTHER_1;;Why man, she came back interesting.
+_WIELDER_WITH_BROTHER_2;;I got rid of the stupid brother's thoughts and needs and now I'm lost.
+_WIELDER_WITH_BROTHER_3;;I missed the most important thing. birth.
+_WIELDER_WITH_BROTHER_4;;Thank you very much. You don’t talk, you talk. But I will
+_WIELDER_WITH_BROTHER_5_EXH;;Sorry, I have not done this in a long time.
+_WIELDER_WITH_BROTHER_6_EXH;;I like to do the right things.
+_SPLUNK;;When driving
+_SPLUNK_DESC;;Octavio Galicia Domonidae
+_SPLUNK_ASLEEP_1;;г ...
+_SPLUNK_AWAKE_1;;Hello! - So! I woke up! "Sorry, I introduce myself ..."
+_SPLUNK_AWAKE_2;;Oh ... reputation belt, like toaster ... city toaster lion namehurad. Hahaha.
+_SPLUNK_AWAKE_3;;I wanted to stay in an inaccessible place, but I felt like I was.
+_SPLUNK_AWAKE_4;;I've been to Arcadia for a long time. I miss before and after a bit. Published
+_SPLUNK_AWAKE_5;;Well I can't stay here, I hope to see you again!
+_SPLUNK_AWAKE_6;;What am I doing now?
+_SPLUNK_AWAKE_EXH;;very good! I really like this place.
+_SPLUNK_SCARED_1;;What! Where are they?
+_SPLUNK_SCARED_2;;Well done here! Did you tell me that darkness means fear?
+_SPLUNK_SCARED_3;;I tried to lose it again, but it didn't work. It's not my fault.
+_SPLUNK_SCARED_4;;Arg ... What can I say now? Why is the light so dark?
+_SPLUNK_SCARED_EXH;;I want to stay here for a while. That was bad.
+_SPLUNK_BROKEN_1;;No. It is not. I hope no one cares when I'm like this ...
+_SPLUNK_BROKEN_2;;I fell on my skin and broke my leg. too far away!
+_SPLUNK_BROKEN_3;;I really hate questions. But I don’t think robots like you should think of me.
+_SPLUNK_BROKEN_AFTER;;I will use it to solve it.
+_REPAIR_SPLUNK;;Want to pre-order splink messages?
+_THANK_YOU_SPLUNK_1;;Thank you very much
+_SPLUNK_BUILDING_1;;Good luck again! . Can you imagine what I did?
+_SPLUNK_BUILDING_2;;This is a small house for robots.
+_SPLUNK_BUILDING_EXH;;The fool told me it was definitely bread, not bread.
+_SPLUNK_BUILDING_AFTER;;- Use SPLVNK
+_SPLUNK_BENCH_1;;Ito Devin was shot
+_SPLUNK_BENCH_2;;I think I have time to find a goal. closing. And I knew one day I would find a way.
+_SPLUNK_BENCH_3;;Thank you so much for your patience. You help me control my emotions, listen to what I say.
+_SPLUNK_BENCH_4;;We’d better go back to the kitchen.
+_SPLUNK_BENCH_EXH;;I hope I can afford it someday.
+_FIRE_CULTIST;;Ankara
+_THE_SACRIFICE;;Hahoo
+_THE_SACRIFICE_1;;so! They are crazy to worship false gods!
+_THE_SACRIFICE_2;;They believe that this bacteria is the reason for their hatred of idols and that the only reliable way is to abandon them completely.
+_THE_SACRIFICE_3_EXH;;Crazy crazy ... Crazy car ... Crazy show ...
+_FIRE_CULTIST_1;;I do not know if Caryn and Bamis Nyakov are talking about our success.
+_FIRE_CULTIST_2;;Jack
+_BUNSEN_BURNER_1;;Our cars will burn your knees online
+_ODE;;All right
+_ODE_NOTE;;'M'e
+_WIELDER_WITH_BROTHER_3_;;Read this song of yours and have to say love this song too. Inspired by raids
+_ADULT_SNAIL_2_3;;These are very dirty things. If we do not enter, they will close the water source.
+_ADULT_SNAIL_2_EXH_2;;We have to pay attention to cleaning these water networks.
+_ELECTRIC_SENTIENT_1;;Wait ... what happened?
+_ELECTRIC_SENTIENT_2;;He disappeared into the darkness and disappeared completely.
+_ELECTRIC_SENTIENT_3;;If my main program is disabled, others will follow ...
+_ELECTRIC_SENTIENT_4;;He is here. I have to find other things.
+_FACTORY_SENTIENT_1;;How do you listen?
+_FACTORY_SENTIENT_2;;I stopped to think about our actions.
+_FACTORY_SENTIENT_3;;It is necessary to understand. We strive to secure the future of our profession.
+_FACTORY_SENTIENT_4;;In that time. Here is a small part to help you.
+_BUNKER_SENTIENT_1;;... did we do that?
+_BUNKER_SENTIENT_2;;Make our decisions. Thinking is like a virus. Easy and fast printing.
+_BUNKER_SENTIENT_3;;Crush the seeds before rooting.
+_BUNKER_SENTIENT_4;;Return to Arcadia.
+Steam page;;
+_MELODY;;Petro ko
+_MELODY_DESC;;Patrick Mayer
+_MELODY_BEFORE_1;;Excuse me, dear, did you see an old gray stripe on your trip? I feel very confused.
+_MELODY_BEFORE_2;;Years? ... Macias. I like it
+_MELODY_BEFORE_3;;Sorry! Where is my focus?
+_MELODY_BEFORE_4;;Hi my music, I was in the bunker before I got here. Intolerant of irritating drones.
+_MELODY_BEFORE_5;;You're old I'm lucky to meet a rusty man. Another thing I do not know is if this place exists!
+_MELODY_BEFORE_EXH_1;;As you know, I decided to keep the old tape in the basement.
+_MELODY_BEFORE_EXH_2;;Now is the time to shine.
+_MELODY_RETURN_1;;Well, not really
+_MELODY_RETURN_2;;Surprisingly, plastic music can make such an artist.
+_MELODY_AFTER_1;;Let it be! I understood
+_MELODY_AFTER_2;;I can't believe you're back. You don’t know how happy I am.
+_MELODY_AFTER_3;;When I play, go out and see why I chose that way.
+_MELODY_DIRECT_1;;Forgive me, my love. Have you ever seen a gray tree while walking? I want to walk home.
+_MELODY_DIRECT_2;;Settings! I love the band I love so much and I think I try it again in the basement.
+_MELODY_DIRECT_3;;Do you have a minute to play with me? Then you will understand why I love you so much.
+_REAPER;;to know
+_REAPER_DESC;;name
+_REAPER_FIRST_ENCOUNTER_1;;Hello Arcade. Have you ever been here or are you happy?
+_REAPER_FIRST_ENCOUNTER_2;;Are you ashamed to say that? I'm sorry, right? Yes.
+_REAPER_FIRST_ENCOUNTER_3;;Look around if you need anything, we can negotiate the right deal.
+_REAPER_RANDOM_1;;Arcadia is harder than ever. Ჰ Haha. I don't want to clean anything.
+_REAPER_RANDOM_2;;I have to tell the truth. I don't trust the public. Fixes just need to be fixed.
+_REAPER_RANDOM_3;;Of course, other countries have blocked the Arcadian. Look what they did. Yes Yes Yes.
+_REAPER_RANDOM_4;;Oh, you want the arcade game to be fun and more!
+_REAPER_NO_MORE_1;;I can't forgive.
+_REAPER_NO_MORE_2;;Get out of here Get out of here! Use it to do terrible things. ha ha ha
+MISC.;;
+_DEAD_SENTIENT_1;;Work
+_DEAD_SENTIENT_2;;Check the growth of the plant.
+_DEAD_SENTIENT_3;;forgive me.
+_TRAVELING;;betil
+_TRAVELING_TOWN;;Putt du VN
+_PAUSED;;To read
+_RESUME;;You will wake up
+_FIRE_UPGRADE_QUESTION;;Can you treat your body with a special thermal treatment?
+_WATER_UPGRADE_QUESTION;;Do you put cylinder oil in your body?
+_JUMP_TUTORIAL;;Stop: Immediately
+_ATTACK_TUTORIAL;;To attack, {Operation: Attack Cop.
+_DASH_TUTORIAL;;Take action: Click the line to move your competitors.
+_HEAL_TUTORIAL;;Click {Active: Connect to save and save
+_SHARP_DASH;;Wrong class
+_SHARP_DASH_DESC;;Allows users to destroy enemies by blinking between two rooms in space.
+_LESS_BOMB_HEAT_COST;;Energy industry
+_LESS_BOMB_HEAT_COST_DESC;;The drum reduces the heat.
+_ELECTRIC_ORBS;;Battery
+_ELECTRIC_ORBS_DESC;;Create an environment with electrical zones and destroy the enemies associated with it.
+_MONEY_SHRINES_EXPLANATION_1;;My body ached as I read this and my head stopped.
+_MONEY_SHRINES_EXPLANATION_2;;In honor of the emperor, I was commissioned to build a temple in Arcadia. There must be members who share the meaning of each temple.
+_MONEY_SHRINES_EXPLANATION_3;;I can not replace the engine parts, so I want it to work.
+_WEIRD_ARTIFACT;;Human skeleton
+_WEIRD_ARTIFACT_DESC;;The cord is behind.
+LORE;;
+_SENTIENT_STATUE_1;;The machine uses iron and steel to make the world a better place than ever before.
+_SENTIENT_STATUE_2;;The sculpture here is a tribute to the creators of the state of technological change in Arcadia.
+_CANDLES_1;;People are optimistic. This little flame has entered your dreams and aspirations.
+_CANDLES_2;;Each is strong for their memory. But unfortunately Eli was burned at the stake.
+_FACTORY_SENTIENT_LORE_1;;are you going wrong
+_FACTORY_SENTIENT_LORE_2;;I want to hear your advice ...
+_HUMAN_MEMORY_PROGRAM_1;;DNA is not just an extension of the protection program. The code generates bytes on the fan in real time.
+_FIRST_TREE_PROGRAM_1;;An important role: As a vital nutrient for life, phosphorus is found in water and high energy.
+_FIRST_TREE_PROGRAM_2;;Technical and photographic accuracy. In addition to electricity, our water system is also a problem, but it is important to keep your body clean.
+_HUMAN_TECHNOFEAT_1;;If you have the technology, people will work according to their needs. Like them.
+_HUMAN_DESTRUCTION_1;;Every fall at the door is a new creation. A real crocodile burned by people 200 years ago.
+_HISTORY_REPEATS_ITSELF_1;;It's a very similar song. Only the folders change for each program.
+_HUMAN_BREAK_EQUILIBRIUM_1;;It will increase, destroy and destroy the Earth's ecosystem. Again, in this case, you don't like the look.
+_FIRE_ENEMIES_LORE_1;;The only problem was the luggage. He is always the best in his plans.
+_FIRE_CULT_LORE_1;;We do not believe in the past and find the essence of knowledge.
+_FIRE_CULT_LORE_2;;So it is your job to put out the fire.
+_THE_ARCHIVES_LORE_1;;This report presents a monument to truth.
+_THE_ARCHIVES_LORE_2;;They provide access to information in the true sense of the word, content and principles.
+_THE_ARCHIVES_TRUTH_LORE_1;;Many hide the truth. damage, concealment, burial or damage. But the honest things are coming.
+_NATURE_ALWAYS_REVAILS_1;;List of reincarnation projects: My last trip seems premature. This is my next post.
+_NATURE_ALWAYS_REVAILS_2;;It has the power to save lives. It is stronger than iron and steel.
+_NATURE_ALWAYS_REVAILS_3;;My mission is done. Deep root. Vacancies in the city began to dwindle.
+_NATURE_ALWAYS_REVAILS_4;;Moreover. Nature is the main force.
+_BULB_LORE_1;;Only three lights light up on the dark screen.
+_BULB_LORE_2;;These distractions are eternal
+_DRILLS_LORE_1;;The rest of the country is full of garbage. It is flourishing and investing even after the crisis.
+_DRILLS_LORE_2;;Microorganisms are like garbage cans.
+_BIG_BROTHER;;See you brethren.
+_SCUBA_HEAD_LORE_1;;The tomb was closed and we were rescued.
+_SCUBA_HEAD_LORE_2;;New radiation is spreading in Arcadia. But we have nowhere to go, and our destiny is inevitable.
+_SCUBA_HEAD_HIDDEN_LORE_1;;Our artificial body is very sensitive to radiation. Floods are destroying our country.
+_SCUBA_HEAD_HIDDEN_LORE_2;;We left Arcadia, but they did not bring us here.
+_WATER_ENERGY_1;;Since then, our lives have gotten better and better. As long as there is water, our system works online.
+ACHIEVEMENTS;;
+_TRADE;;fair marketing
+_TRADE_DESC;;Buy your product first
+_ONE_CHIP;;Chip on the Computer
+_ONE_CHIP_DESC;;Get your first chip
+_HALF_CHIPS;;The process continues
+_HALF_CHIPS_DESC;;Take half of the fries.
+_ALL_CHIPS;;Renewal - Renewal.
+_ALL_CHIPS_DESC;;Select all chips
+_CAPSULE_FRAGS;;Del . capsules
+_CAPSULE_FRAGS_DESC;;Improvement of sanitary area 3:
+_MAX_HEALTH;;oil filling machine
+_MAX_HEALTH_DESC;;Get as much energy as possible.
+_ONE_CELL;;Fun
+_ONE_CELL_DESC;;Collect and multiply cells
+_HALF_CELLS;;A quarter of the work is done.
+_HALF_CELLS_DESC;;Look at the socket in the middle.
+_ALL_CELLS;;The quarterly plan was completed.
+_ALL_CELLS_DESC;;Collect all the stones
+_MISCHIEF;;No other problems
+_MISCHIEF_DESC;;Remove all obstacles on the map.
+_SOLD_OUT;;It sells!
+_SOLD_OUT_DESC;;See all Sony products.
+_BOMB_TASTIC;;Good bomb!
+_BOMB_TASTIC_DESC;;Find all the sections
+_SCAVENGER;;confidential!
+_SCAVENGER_DESC;;Buy all ripper products
+_SAFEKEEPING;;For safety
+_SAFEKEEPING_DESC;;Create multiple groups
+_TWO_MINUTES;;two minutes before midnight
+_TWO_MINUTES_DESC;;When
+_TRAINSPOTTER;;sexual desire
+_TRAINSPOTTER_DESC;;Search all stations
+_MUNDO;;Questions and Answers
+_MUNDO_DESC;;talk to the world
+_CATACOMBS;;So much from
+_CATACOMBS_DESC;;Throw the neck
+_IN_TOO_DEEP;;very deep.
+_IN_TOO_DEEP_DESC;;Limerick Anna
+_BALANCING_ACT;;Although
+_BALANCING_ACT_DESC;;Kaulees
+_BRAVE_LITTLE_TOASTER;;Superheroes
+_BRAVE_LITTLE_TOASTER_DESC;;Help the runner find the target.
+_FAMILY;;family
+_FAMILY_DESC;;Meet Rooney and Randall
+_LITERATE;;Price
+_LITERATE_DESC;;Each song will be played on Monday.
+_POETIC_JUSTICE;;The end of the poem
+_POETIC_JUSTICE_DESC;;575 Kill the enemy
+_GRAVEYARD_SHIFT;;Return to the grave
+_GRAVEYARD_SHIFT_DESC;;Contact each client's news / cemetery.
+_SAVE_THE_CHILDREN;;John
+_NOT_NICE;;bad behavior
+_NOT_NICE_DESC;;Splenk demolished the house
+_EXPLORER;;The test box
+_EXPLORER_DESC;;100% furniture.
+_COMPLETIONIST;;More information
+_COMPLETIONIST_DESC;;100% all
+_BEEP_BOP;;Pipi
+_BEEP_BOP_DESC;;Add 100 drops of water
+_TWO_POINTS;;Two bags!
+_TWO_POINTS_DESC;;Return to the police station
+_EVOLUTION;;enrichment
+_EVOLUTION_DESC;;Find the hidden eggs.
+_ANOTHER_ADVENTURE;;Another trip
+_ANOTHER_ADVENTURE_DESC;;that song
+_ELECTRON;;electronic taximeter
+_ELECTRON_DESC;;Follow an outside manufacturer.
+_PROTON;;Prototype
+_PROTON_DESC;;The other creator is irrelevant
+_NEUTRON;;Neutrons
+_NEUTRON_DESC;;Sorry first author.
+_SYMPTOM;;treasure
+_SYMPTOM_DESC;;galar Inflammatory bowel disease
+_BALANCED;;Average
+_BALANCED_DESC;;Defeat three men
+_ORIGINS;;Habit:
+_ORIGINS_DESC;;find another artist
+_NO_REPAIR;;The governor's hand changes
+_NO_REPAIR_DESC;;Buttonless game is over.
+_MUNDO_1;;Hello world. I haven't seen your face in a long time. I mean, the car is here.
+_MUNDO_2;;The earth can sleep well. The factory line is now flat. You are awake now. Please speak again.
+_MUNDO_3;;The world has never been an industry.
+_MUNDO_4;;The world is confused. It has nothing. But it is smaller than a virus.
+_MUNDO_5;;Dumbbells been. The infection revealed the darkness hidden inside. you deserve darkness
+_MUNDO_6;;People are waiting for something new to start.
+_MUNDO_AFTER_VIRUS_1;;When Mundo thinks he can start a new chapter.
+_SNAIL_VILLAGER;;The grain is broken
+_BABY_SNAIL_1;;Is he still there? Please tell me your thoughts!
+_BABY_SNAIL_2;;"You don't have to talk to anyone anymore," he said. Just my age.
+_BABY_SNAIL_EXH;;...
+_ADULT_SNAIL_2_1;;Hello guests. Are you off topic?
+_ADULT_SNAIL_2_2;;It's there! Age and age approx.
+_ADULT_SNAIL_2_EXH;;Breathe in, I hope you didn't throw out the trash ...
+_TEEN_SNAIL_HIDING_1;;Hahaha
+_ELDER_SNAIL;;Amoso
+_ELDER_SNAIL_1;;See you later! Eternal law rules over us. I will return. Our work is known and organized.
+_ELDER_SNAIL_EXH;;Mona Rubija Neville. Tejim Mona Billy Fosana un
+_ELEGY;;Choose short
+_ELEGY_1;;Memory machine.
+_ELEGY_2;;The world is full of conflicts
+_ELEGY_3;;We call it the Loya Jirga.
+_ELEGY_4;;The only reason is to organize everything.
+_WEIRD_ARTIFACT_CONTROLS_1;;Travel... comfortable...
+_WEIRD_ARTIFACT_CONTROLS_2;;... Otty.
+END;;
+_PIXEL_PERFECT;;Magna Pixel
+_STATIONS;;nations
+_ARE_YOU_SURE_QUIT;;Do you want to stop having fun?
+_PROGRESS_WILL_BE_LOST;;Development does not end immediately
