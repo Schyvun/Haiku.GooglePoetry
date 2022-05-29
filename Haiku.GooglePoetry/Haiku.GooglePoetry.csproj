@@ -10,7 +10,7 @@
 	</PropertyGroup>
 	<PropertyGroup>
 		<RootNamespace>Haiku.GooglePoetry</RootNamespace>
-		<AssemblyName>Google Poetry</AssemblyName>
+		<AssemblyName>Haiku.GooglePoetry</AssemblyName>
 		<TargetFramework>netstandard2.0</TargetFramework>
 		<LangVersion>latest</LangVersion>
 		<AssemblyVersion>1.0.0.0</AssemblyVersion>
